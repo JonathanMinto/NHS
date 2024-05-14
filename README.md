@@ -11,7 +11,9 @@ The NHS incurs significant, potentially avoidable, costs when patients miss gene
 Therefore, reducing or eliminating missed appointments would be beneficial financially as well as socially. The government needs a data-informed approach to decide how best to handle this problem.
 
 I assessed the issue, utlising two structured thinking approaches; a fishbone diagram and the 5-whys method
+![image 1](https://github.com/JonathanMinto/NHS/blob/main/Fishbone%20Diagram.png)
 
+This lead to the refining of the business problem and the formulation of these two guiding questions for the project
 ### **Guiding Questions:**
 1. Are ‘DNA’ appointment rates affected by 'appointment mode'. If so, how do they vary across ICB locations?
 2. Do longer booking lead times lead to more ‘DNA’ statuses? and does it vary across ICB locations?
