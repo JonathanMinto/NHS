@@ -1,6 +1,8 @@
 # NHS Project
 As part of my L.S.E. assessment I completed an analysis project assessing the effect of missed appointments on NHS GP practices. 
+
 Tools: Python - Pandas, Matplotlib, Seabon, Plotly, R, PowerPoint
+
 Skills: data cleaning & wrangling, problem statement refinement, structured thinking frameworks, exploratory & descriptive analysis, stakeholder considerations, visualisations, data story-telling
 
 ### **Project Brief:**
