@@ -26,3 +26,19 @@ This lead to the refining of the business problem and the formulation of two gui
 
 ### **Insights and Recommendations:**
 I found a huge discrepancy in the range of appointments missed when filtering by booking lead time across different regions and recommended the service assess strong/weak performing regions to affect change.
+
+This chart shows the upward trend of missed appointments (DNA - did not attend), a key insight suggesting resources utlisation is getting worse.
+
+![Image1](https://github.com/JonathanMinto/NHS/blob/main/DNA%20Trend.png)
+#
+This chart shows that DNA appointments increase in linear fashion the longer the lead time from booking to appointment.
+
+![image2](https://github.com/JonathanMinto/NHS/blob/main/DNA%20Lead%20Time.png)
+#
+This chart shows the lack of utilation of video/online services. I recommended further analysis into the causes for this as linked from the Fishbone diagram.
+
+![image3](https://github.com/JonathanMinto/NHS/blob/main/Appointment%20Mode.png)
+#
+This final chart is a static image of a dynamic chart made in Python's Plotly library. It outlines my main recommendation to NHS stakeholders that different ICB location have a huge discrepancy in DNA rates and that high/low performing locations be investigated for their effective or inneffective procedures.
+
+![image4](https://github.com/JonathanMinto/NHS/blob/main/NHS%20Appointments%20F2F.png)
