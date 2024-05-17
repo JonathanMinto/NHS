@@ -1,5 +1,5 @@
 # NHS Project
-As part of my L.S.E. assessment I completed an analysis project assessing the effect of missed appointments on NHS GP practices. 
+As part of my L.S.E. assessment I completed an analysis project analysing the effect of missed appointments on NHS GP practices. 
 
 Tools: Python - Pandas, Matplotlib, Seabon, Plotly, R, PowerPoint
 
